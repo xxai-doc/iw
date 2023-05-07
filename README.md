@@ -7,3 +7,4 @@
 * [קוד קצה](https://github.com/xxai-art/web)
 * [חבילות שפה עבור האתר כולו](https://github.com/xxai-art/web/tree/main/i18n)
 * [חבילות שפה עבור מודולי כניסה](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [תיעוד רב לשוני באתר](https://github.com/xxai-doc)
