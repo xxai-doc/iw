@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , הוסף כמה תכונות על בסיס תחביר coffeescript, ראה [coffee_plus](./coffee_plus.md) .
 
-* להצהיר על משתנה
+## להצהיר על משתנה
 
 ```
 + var1, var2
 ```
 
-* תווית הצהרה
+## תווית הצהרה
 
 `:$` מיועד לשימוש עם [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ייבוא ​​מהיר
+## ייבוא ​​מהיר
 
 ```
 > zx/globals:
